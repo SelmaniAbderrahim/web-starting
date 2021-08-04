@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Ubuntu&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,300;0,700;0,900;1,400;1,700&display=swap');
 
 * {
    margin: 0;
@@ -9,14 +9,10 @@
 a {
    text-decoration: none;
    color: black;
-   transition: .3s ease-in-out;
-}
-a:hover {
-   color: #ba53de;
 }
 
 body {
-   font-family: 'Ubuntu', sans-serif;
+   font-family: 'Lato', sans-serif;
 }
 
 .capital{
